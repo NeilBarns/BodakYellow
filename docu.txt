@@ -1,0 +1,32 @@
+react-native-root-siblings
+https://www.npmjs.com/package/react-native-root-siblings?activeTab=readme
+
+
+Expo SplashScreen (replacement of expo-app-loading)
+https://docs.expo.dev/versions/latest/sdk/splash-screen/
+
+
+expo-app-loading
+https://www.npmjs.com/package/expo-app-loading
+
+
+@react-navigation/native
+https://www.npmjs.com/package/@react-navigation/native
+
+
+@react-navigation/bottom-tabs
+npmjs.com/package/@react-navigation/bottom-tabs
+
+
+React Native Vector Icons - Simple Line Icons (@react-native-vector-icons/simple-line-icons)
+https://www.npmjs.com/package/@react-native-vector-icons/simple-line-icons
+
+
+react-native-size-matters
+https://github.com/nirsky/react-native-size-matters
+
+
+@react-navigation/stack
+https://reactnavigation.org/docs/stack-navigator/
+
+
