@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import { View, Text, Button, TextInput } from 'react-native'
 
-const Overview = () => {
+const AnalyticsMain = () => {
 
     return (
         <View style={{
@@ -9,10 +9,10 @@ const Overview = () => {
             paddingLeft: 50
         }}>
             
-            <Text>Open Inbox</Text>
+            <Text>Analytics</Text>
        
         </View>
     )
 }
 
-export default Overview
+export default AnalyticsMain
