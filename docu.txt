@@ -30,3 +30,5 @@ https://github.com/nirsky/react-native-size-matters
 https://reactnavigation.org/docs/stack-navigator/
 
 
+react-native-element-dropdown
+https://www.npmjs.com/package/react-native-element-dropdown
